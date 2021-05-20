@@ -1,0 +1,13 @@
+body{
+	background-color: grey;
+}
+
+.pagina{
+	width: 330px;
+	margin: 0 auto;
+}
+
+.header{
+	background-color: yellow;
+	height: 50px;
+}
